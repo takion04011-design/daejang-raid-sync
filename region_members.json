@@ -1,0 +1,442 @@
+[
+  {
+    "combat_power": 3322,
+    "combat_score_max": 77443.0,
+    "job": "수호성",
+    "nickname": "록커",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3353,
+    "combat_score_max": 72551.0,
+    "job": "검성",
+    "nickname": "상어",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3237,
+    "combat_score_max": 66066.0,
+    "job": "궁성",
+    "nickname": "고래",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3232,
+    "combat_score_max": 62968.0,
+    "job": "정령성",
+    "nickname": "진정",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3166,
+    "combat_score_max": 56687.0,
+    "job": "검성",
+    "nickname": "박스로고",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3186,
+    "combat_score_max": 54988.0,
+    "job": "궁성",
+    "nickname": "디바인",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3101,
+    "combat_score_max": 52217.0,
+    "job": "궁성",
+    "nickname": "Pansy",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3117,
+    "combat_score_max": 51950.0,
+    "job": "치유성",
+    "nickname": "없네",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3142,
+    "combat_score_max": 49404.0,
+    "job": "검성",
+    "nickname": "있네",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3077,
+    "combat_score_max": 47199.0,
+    "job": "정령성",
+    "nickname": "호이야",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3187,
+    "combat_score_max": 45820.0,
+    "job": "궁성",
+    "nickname": "박까용",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3201,
+    "combat_score_max": 43260.0,
+    "job": "정령성",
+    "nickname": "홍당무",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3109,
+    "combat_score_max": 41698.0,
+    "job": "정령성",
+    "nickname": "솔플왕",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3208,
+    "combat_score_max": 40970.0,
+    "job": "호법성",
+    "nickname": "샨디",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3065,
+    "combat_score_max": 36571.0,
+    "job": "궁성",
+    "nickname": "계략",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3159,
+    "combat_score_max": 36435.0,
+    "job": "호법성",
+    "nickname": "라헤르시온",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3160,
+    "combat_score_max": 36001.0,
+    "job": "정령성",
+    "nickname": "김손백",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3039,
+    "combat_score_max": 34464.0,
+    "job": "궁성",
+    "nickname": "에레이니",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3154,
+    "combat_score_max": 31867.0,
+    "job": "궁성",
+    "nickname": "눈부신여로",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3059,
+    "combat_score_max": 31387.0,
+    "job": "궁성",
+    "nickname": "조약돌",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3072,
+    "combat_score_max": 30586.0,
+    "job": "치유성",
+    "nickname": "홍홍",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3173,
+    "combat_score_max": 30554.0,
+    "job": "검성",
+    "nickname": "챠",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3019,
+    "combat_score_max": 30281.0,
+    "job": "호법성",
+    "nickname": "악호법",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3179,
+    "combat_score_max": 29867.0,
+    "job": "수호성",
+    "nickname": "에필로그",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3105,
+    "combat_score_max": 28939.0,
+    "job": "호법성",
+    "nickname": "블릿",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3100,
+    "combat_score_max": 27309.0,
+    "job": "치유성",
+    "nickname": "땡쵸",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3205,
+    "combat_score_max": 27115.0,
+    "job": "치유성",
+    "nickname": "솔레이네쥬",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3064,
+    "combat_score_max": 26357.0,
+    "job": "치유성",
+    "nickname": "힐러는공주야",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3069,
+    "combat_score_max": 25382.0,
+    "job": "궁성",
+    "nickname": "아카라",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3054,
+    "combat_score_max": 22450.0,
+    "job": "궁성",
+    "nickname": "댓",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3075,
+    "combat_score_max": 21919.0,
+    "job": "치유성",
+    "nickname": "감주주",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3010,
+    "combat_score_max": 21098.0,
+    "job": "치유성",
+    "nickname": "실버불릿",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2907,
+    "combat_score_max": 20593.0,
+    "job": "치유성",
+    "nickname": "치근",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 3051,
+    "combat_score_max": 19533.0,
+    "job": "호법성",
+    "nickname": "연토끼",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2896,
+    "combat_score_max": 13989.0,
+    "job": "궁성",
+    "nickname": "플리",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2881,
+    "combat_score_max": 13148.0,
+    "job": "수호성",
+    "nickname": "살라방",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2816,
+    "combat_score_max": 12620.0,
+    "job": "정령성",
+    "nickname": "굴린다",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2671,
+    "combat_score_max": 10463.0,
+    "job": "호법성",
+    "nickname": "누꼬",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2735,
+    "combat_score_max": 10079.0,
+    "job": "살성",
+    "nickname": "박손백",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2971,
+    "combat_score_max": 10008.0,
+    "job": "치유성",
+    "nickname": "꽃의호흡",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2677,
+    "combat_score_max": 9884.0,
+    "job": "수호성",
+    "nickname": "이유가유이",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2718,
+    "combat_score_max": 9680.0,
+    "job": "호법성",
+    "nickname": "귀상어",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2834,
+    "combat_score_max": 9531.0,
+    "job": "치유성",
+    "nickname": "좋아잘했어",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2760,
+    "combat_score_max": 8805.0,
+    "job": "치유성",
+    "nickname": "토끼야야옹해",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2400,
+    "combat_score_max": 7893.0,
+    "job": "궁성",
+    "nickname": "윈드플라워",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2275,
+    "combat_score_max": 7276.0,
+    "job": "검성",
+    "nickname": "별무리",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2306,
+    "combat_score_max": 7109.0,
+    "job": "궁성",
+    "nickname": "wudi",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2352,
+    "combat_score_max": 6956.0,
+    "job": "수호성",
+    "nickname": "가오리",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2569,
+    "combat_score_max": 6156.0,
+    "job": "마도성",
+    "nickname": "프로리",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2043,
+    "combat_score_max": 5388.0,
+    "job": "호법성",
+    "nickname": "이니호법",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 1930,
+    "combat_score_max": 4985.0,
+    "job": "궁성",
+    "nickname": "빛바랜궁",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 2180,
+    "combat_score_max": 3673.0,
+    "job": "호법성",
+    "nickname": "밤주주",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 1200,
+    "combat_score_max": 3182.0,
+    "job": "마도성",
+    "nickname": "샥스",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 1278,
+    "combat_score_max": 2504.0,
+    "job": "치유성",
+    "nickname": "힐하는냥이",
+    "race": "마족",
+    "server": "아스펠"
+  },
+  {
+    "combat_power": 1111,
+    "combat_score_max": 1855.0,
+    "job": "호법성",
+    "nickname": "루왁커피똥",
+    "race": "마족",
+    "server": "아스펠"
+  }
+]
